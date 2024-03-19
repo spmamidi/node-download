@@ -1,0 +1,14 @@
+{
+  "name": "spmamidi",
+  "version": "0.0.0",
+  "devDependencies": {},
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "download": "^7.1.0",
+    "easy-pdf-merge": "^0.2.2",
+    "fs-extra": "^8.1.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "shelljs": "^0.8.3"
+  }
+}

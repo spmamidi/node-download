@@ -1,0 +1,10 @@
+exports.configuration = {
+    destinationPath: 'c:/Users/siva/Downloads/readingworksheet',
+     links:
+     
+     [
+    
+      "https://www.superteacherworksheets.com/multiplication/multiply-by-two.pdf?up=1536747095","https://www.superteacherworksheets.com/multiplication/mystery-picture-multiplication-0s-1s-2s-beach.pdf?up=1546940161","https://www.superteacherworksheets.com/multiplication/multiplication-puzzles-factors-0s-1s-2s.pdf?up=1542283182","https://www.superteacherworksheets.com/multiplication/caterpillar-multiplying-by-2s.pdf?up=1536749034","https://www.superteacherworksheets.com/multiplication/cootie-catcher-math-multiply-2.pdf?up=1466611200","https://www.superteacherworksheets.com/counting/count-by-2s-objects.pdf?up=1466611200","https://www.superteacherworksheets.com/counting/count-by-2s-questions.pdf?up=1546939003","https://www.superteacherworksheets.com/counting/counting-by-2s-lines.pdf?up=1524727441","https://www.superteacherworksheets.com/counting/dot-to-dot-dolphin-countby2.pdf?up=1466611200","https://www.superteacherworksheets.com/counting/count-by-2s-hundred-chart.pdf?up=1466611200","https://www.superteacherworksheets.com/counting/counting-by-2s-penguins.pdf?up=1524727501","https://www.superteacherworksheets.com/counting/counting-by-2s-balloons.pdf?up=1524727348","https://www.superteacherworksheets.com/counting/count-by-2s.pdf?up=1466611200","https://www.superteacherworksheets.com/multiplication/basic-multiply-drill-0-2.pdf?up=1547017751","https://www.superteacherworksheets.com/multiplication/basic-multiply-drill-0-2B.pdf?up=1547722152","https://www.superteacherworksheets.com/multiplication/multiply-quiz-thru-10s-0-2.pdf?up=1466611200","https://www.superteacherworksheets.com/multiplication-basic-index.html","https://www.superteacherworksheets.com/multiplication-tables.html","https://www.superteacherworksheets.com/multiplication-properties.html"
+
+  ]
+    }    
